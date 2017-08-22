@@ -1,0 +1,1 @@
+# help_scout_new_item_setup_kitchen_collection-ts-generator
